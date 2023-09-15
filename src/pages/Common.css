@@ -1,0 +1,32 @@
+.flex {
+    display: flex;
+    position: relative;
+    top: -28rem !important ;
+    display: flex;
+    margin-bottom: -30rem !important;
+  }
+  .text_align {
+    position: relative;
+    /* max-width: 34rem; */
+    /* left: 27rem; */
+    width: 59rem !important;
+    left: 12rem !important;
+    top: 40rem !important;
+    padding: 0 11rem !important;
+    line-height: 28px !important;
+    font-size: xx-large !important;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder !important ;
+    
+    
+  }
+  .container-u {
+    display: flex;
+    margin-left: 5rem;
+    z-index: 1;
+  }
+
+  .co{
+    color: aqua;
+  }
+  

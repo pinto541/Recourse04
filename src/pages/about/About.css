@@ -1,0 +1,34 @@
+
+  
+  
+
+  
+
+  
+  .Container {
+   
+    position: relative;
+    display: flex;
+    
+  }
+
+ 
+  
+
+  .righ h3{
+   text-align: center;
+   padding-top: 10px;
+  }
+  .righ h6{
+    text-align: center;
+    padding: 1px;
+    color: navy;
+   }
+
+  .righ img{
+ 
+    border-radius: 8px !important;
+  /* Optional: Add styling for individual images here */
+  
+  
+  }
