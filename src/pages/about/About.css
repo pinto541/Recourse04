@@ -1,8 +1,15 @@
 
-  
+ .mix{
+  position: relative;
+  display: flex;
+ }
   
 
-  
+  .righttt img{
+    border-radius: 42px !important;
+    padding: 35px;
+    width: 600px;
+  }
 
   
   .Container {

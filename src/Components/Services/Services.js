@@ -13,7 +13,7 @@ function Services() {
         <>
        
 
-        <div className=''>
+        <div className='as'>
         <div className="my-5">
         <div style={{
                         padding:"30px"

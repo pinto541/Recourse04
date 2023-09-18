@@ -1,32 +1,39 @@
-.flex {
-    display: flex;
-    position: relative;
-    top: -28rem !important ;
-    display: flex;
-    margin-bottom: -30rem !important;
-  }
-  .text_align {
-    position: relative;
-    /* max-width: 34rem; */
-    /* left: 27rem; */
-    width: 59rem !important;
-    left: 12rem !important;
-    top: 40rem !important;
-    padding: 0 11rem !important;
-    line-height: 28px !important;
-    font-size: xx-large !important;
-    font-family: Arial, Helvetica, sans-serif;
-    font-weight: bolder !important ;
-    
-    
-  }
-  .container-u {
-    display: flex;
-    margin-left: 5rem;
-    z-index: 1;
-  }
+.asf{
+  position:relative;
+  display: flex;
 
-  .co{
-    color: aqua;
-  }
+}
+
+.rightt img{
+
+  width: 850px !important;
+  margin-left: -350px;
+  margin-top: -100px;
+}
+
+.leftt h1{
+ 
+  margin-left: 30px;
+  font-weight: 1000;
+  color: rgb(3, 2, 1);
+  text-shadow: rgb(53, 39, 39) 0px 0px 3px;
   
+  font-family: Arial, Helvetica, sans-serif;
+  width: 900px;
+  
+  margin-top: 130px;
+  
+}
+.leftt h4{
+  padding: 20px;
+  text-align: justify;
+  margin-left: 18px;
+}
+
+.leftt button{
+  background-color: whitesmoke;
+  border-radius: 35px;
+  width: 150px;
+  height: 40px;
+  margin-left: 50px;
+}

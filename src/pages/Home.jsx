@@ -8,14 +8,14 @@ import Commit from '../Components/Commit/Commit';
 
 import Services from '../Components/Services/Services';
 import Faqmain from '../Components/faq/Faqmain';
-import Testimonials from '../Components/Services/testimonial/Testimonial';
+
 import Stats from '../Components/stats/Stats';
 
-
+import "./Home.css"
 
 const Home = () => {
   return (
-    <div>
+    <div className='all'>
       
   
     <Intro/>
@@ -23,7 +23,7 @@ const Home = () => {
     <Commit/>
     <Stats/>
       <Faqmain/>
-      <Testimonials/>
+      
       
       
     </div>
